@@ -1,1 +1,4 @@
 mencoba menambahkan fitur baru
+
+menambahkan captcha
+menambahkan user gila
