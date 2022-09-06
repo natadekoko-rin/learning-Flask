@@ -2,3 +2,5 @@ mencoba menambahkan fitur baru
 
 menambahkan captcha
 menambahkan user gila
+menambahkan validasi gambar
+menambahkan validasi ttd
