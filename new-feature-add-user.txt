@@ -4,3 +4,4 @@ menambahkan captcha
 menambahkan user gila
 menambahkan validasi gambar
 menambahkan validasi ttd
+menambahkan validasi wajah
