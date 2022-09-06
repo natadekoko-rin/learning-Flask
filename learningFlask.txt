@@ -1,3 +1,4 @@
 belajar flask
 
-tetapi belum selesai
+sudah selesai
+ya udah
