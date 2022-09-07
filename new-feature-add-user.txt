@@ -1,6 +1,8 @@
 mencoba menambahkan fitur baru
 
 menambahkan captcha
-menambahkan buttom 1
-menambahkan buttom 2
-menambahkan buttom 3
+=======
+menambahkan user gila
+menambahkan validasi gambar
+menambahkan validasi ttd
+menambahkan validasi wajah
